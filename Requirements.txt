@@ -1,7 +1,0 @@
-pyspark==3.4.1
-pandas
-matplotlib
-seaborn
-duckdb
-pyarrow
-findspark
